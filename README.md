@@ -37,7 +37,7 @@ A fun and interactive dice game built using React! The goal is to match all dice
 
 
 ## GIF
-![Tenzies Game in Action](.src/assets/tenzies.gif)
+![Tenzies Game in Action](./src/assets/tenzies.gif)
 
 ## Future Improvements
 - Add a leaderboard to save scores.
